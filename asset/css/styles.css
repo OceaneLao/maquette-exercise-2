@@ -16,7 +16,7 @@ body {
 
 /*HEADER*/
 header {
-    background-image: url(asset/img/background_image-01.png);
+    background-image: url(../img/background_image-01.png);
     background-repeat: no-repeat;
     background-size : cover;
     color: var(--white);
@@ -100,7 +100,7 @@ h2, h3 {
 
 /*BACKGROUND IMAGE FEATURES PART*/
 .background-features-section {
-    background-image: url(asset/img/wave.png);
+    background-image: url(../img/wave.png);
     background-repeat: no-repeat;
     background-size : cover;
     background-color: var(--grey);
@@ -226,7 +226,7 @@ input[type=radio] {
 
 /*BACKGROUND INFO PROPERTIES*/
 .background-info {
-    background-image: url(asset/img/background_image_02.png);
+    background-image: url(../img/background_image_02.png);
     background-repeat: no-repeat;
     background-size : cover;
     background-color: var(--grey);

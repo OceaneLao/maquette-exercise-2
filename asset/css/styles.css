@@ -80,8 +80,15 @@ h1 {
 
 /*HEADER COLUMN LEFT*/
 .col-header-left {
+    text-align : left;
     margin-right : 20px;
 }
+
+/*MARGIN BOTTOM AFTER PARAGRAPHE HEADER COLUMN LEFT*/
+.paragraphe-header {
+    margin-bottom : 50px;
+}
+
 
 /*BUTTON PROPERTIES*/
 .button {
@@ -301,6 +308,7 @@ a {
     
     section .container, .col-header-left {
         flex-wrap: wrap;
+        text-align: center;
     }
 
     h1, .text-block-left {
